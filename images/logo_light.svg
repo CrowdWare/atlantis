@@ -16,7 +16,7 @@
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95"
    inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
-   sodipodi:docname="logo.svg">
+   sodipodi:docname="logo_light.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.26875"
-     inkscape:cx="180"
-     inkscape:cy="24.285713"
+     inkscape:zoom="1.4638457"
+     inkscape:cx="177.07198"
+     inkscape:cy="22.870602"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer1-2"
      inkscape:document-rotation="0"
      showgrid="false"
      fit-margin-top="0"
@@ -64,13 +64,6 @@
        inkscape:label="Ebene 1"
        id="layer1-2"
        transform="matrix(0.64506805,0,0,0.64506805,-36.768099,89.105076)">
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke-width:0.092359"
-         id="rect892"
-         width="93.162567"
-         height="15.863723"
-         x="-2.3217845"
-         y="-0.42636159" />
       <g
          transform="matrix(0.04954899,0,0,0.03643682,12.118598,4.992947)"
          id="g278"

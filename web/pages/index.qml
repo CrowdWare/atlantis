@@ -232,8 +232,23 @@ Would you like to see a solution, then keep reading on.
                 Text {
                     text: "&lt;div class=&quot;white-row&quot;&gt;
 	&lt;h3&gt;About &lt;strong&gt;Evora&lt;/strong&gt; (Founder)&lt;/h3&gt;
-	&lt;p&gt;&lt;strong&gt;Evora&lt;/strong&gt; is the heart and the love of this project.
+	&lt;p&gt;&lt;strong&gt;Daphne Evora&lt;/strong&gt; Evora is born in the Netherlands. 
+		She has travelled to many different corners of the world and as a zodiac sign cancer always aimed 
+		for a home- and family feeling.
+		She discovered during her travels that home is wherever you go and that we are always surrounded 
+		by family. 
+		She wants for everyone on this planet to have a home and family. &lt;/br&gt;&lt;/br&gt;
 
+		Daphne Evora is the love and inspiration behind the project and brings the right people 
+		and places together to make it happen.&lt;/br&gt;
+
+		She spreads her love and light through intuitive healing, to people and nature towards 
+		co-creation and play, growing vegetables and fruit, healing with food and loves to go 
+		on hiking adventures and snowboarding.&lt;/br&gt;
+
+		&quot;Work is love and play in action&quot;&lt;/br&gt;
+
+		She sees the good in people and likes to bring the good out in them.
 	&lt;/p&gt;
 &lt;/div&gt;
 "
@@ -280,7 +295,7 @@ Would you like to see a solution, then keep reading on.
 
 	&lt;/p&gt;
 	&lt;p&gt;
-	Art now lives in Portugal and builds the &lt;strong&gt;Camp Eden &lt;/strong&gt;, a tantric community based on the rules 
+	Art now lives in Portugal and builds and helps to build &lt;strong&gt;communities&lt;/strong&gt;, based on the rules 
 	of the rainbow family and according to the philosophy of the UBUNTU movement in South Africa.
 	&lt;/p&gt;
 &lt;/div&gt;
