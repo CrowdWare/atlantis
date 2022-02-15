@@ -2,12 +2,13 @@ import FlatSiteBuilder 2.0
 
 Site {
    title: 'Atlantis'
-   theme: 'atropos'
-   description: 'Atlantis Foundation'
-   copyright: '(C) 2020 CrowdWare. All Rights Reserved.'
-   keywords: 'eden '
-   author: 'Art'
-   logo: 'logo.png'
-   publisher: 'GithubPublisher'
+   theme: 'bs5'
+   description: 'erein zur Wiederherstellung der paradiesischen Zustände'
+   copyright: '(C) Copyright 2022, CrowdWare'
+   keywords: ''
+   author: ''
+   logo: ''
+   language: ''
+   publisher: ''
    output: '../docs'
 }
