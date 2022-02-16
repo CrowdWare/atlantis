@@ -1,0 +1,8 @@
+blockquote 
+{
+  font-size: 108% !IMPORTANT;
+  line-height: 1.4;
+  background-color: rgba(0, 0, 255, 0.055);
+  border-left: 8px solid blue;
+  padding: 2rem 2rem;
+}

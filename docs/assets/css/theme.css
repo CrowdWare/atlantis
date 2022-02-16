@@ -1,8 +1,11 @@
-blockquote 
+/* THIS HAS BEEN CHANGED IN BOOTSTRAP 5 TO .img-fluid*/
+.img-responsive 
 {
-  font-size: 108% !IMPORTANT;
-  line-height: 1.4;
-  background-color: rgba(0, 0, 255, 0.055);
-  border-left: 8px solid blue;
-  padding: 2rem 2rem;
+    max-width: 100%;
+    height: auto;
+}
+  
+.navbar 
+{
+    background-color: gray;
 }
