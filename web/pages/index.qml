@@ -29,7 +29,15 @@ Geistesschulung, Alternativen erforschen, Workshops,  Verwaltung von Zweig-Verei
 ## Struktur
 Zweig-Vereine zum Erwerb von Land um dort Gemeinschaften zu gründen und Häuser zu bauen, in denen die Mitglieder kostenlos wohnen können.
 
-##Vereinssitz
+## Vereinsleitung
+Nach Außen gibt es einen Vorstand (das verlangt das System).  
+Nach Innen schlage ich [Soziokratie](https://www.freilerner.at/wp-content/uploads/2016/01/Soziokratie-wozu_-2015.pdf) vor.
+Um es kurz zu machen, jeder stimmt den Entscheidungen zu.  
+&gt;Wenn es nicht gut für alle ist, dann ist es überhaupt nicht gut.  
+&gt;~ Michael Tellinger (UBUNTU Movement South Afrika)
+
+
+## Vereinssitz
 Schloss Spanheim, Berlin
 
 ## Gemeinnützigkeit
